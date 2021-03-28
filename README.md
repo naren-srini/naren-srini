@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python, MongoDB...
 - 💞️ I’m looking to collaborate on open-source, web development project...
 - 📫 Reach me on LinkedIn at www.linkedin.com/in/snarayanan-dev ...
+- - 💻 [View my Portfolio](https://naren-srini.github.io/) ...
 
 # My Bio
 ![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif) 
@@ -47,5 +48,5 @@ const Naren_Srini = {
 <!---
 naren9997/naren9997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-- 💻 [View my Portfolio](https://naren9997.github.io/)
+
 --->
