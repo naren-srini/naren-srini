@@ -7,7 +7,7 @@
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
 
 # My Bio
-![My Bio](https://github.com/naren9997/naren9997-src/blob/main/naren_bio.gif) 
+![My Bio](https://github.com/naren-srini/naren-srini/blob/main/naren_bio.gif)
 
 # A little bit about my skills
 ```javascript
