@@ -35,7 +35,7 @@ const Naren_Srini = {
 };
 ```
 <p align="center">
-  <a href="https://naren9997.github.io/"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="web-portfolio"/></a>
+  <a href="https://naren-srini.github.io//"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="web-portfolio"/></a>
   <a href="mailto:narenece0@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://twitter.com/NarenSrini7"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
   <a href="https://www.reddit.com/user/Pranay_Dev0"><img src="https://img.icons8.com/color/96/000000/reddit.png" alt="reddit"/></a>
