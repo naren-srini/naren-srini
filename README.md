@@ -1,7 +1,7 @@
 #  About Me
 -  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini) Grad student from University of Windsor
 - 👀 I’m interested in JavaScript, React.js, HTML5, CSS3 ...
-- 🌱 I’m currently learning Python, MongoDB...
+- 🌱 I’m currently learning TypeScript, Redux, MongoDB...
 - 💞️ I’m looking to collaborate on open-source, web development project...
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/) ...
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
@@ -18,12 +18,11 @@ const Naren_Srini = {
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
-           css: ["css-grids", "flexbox", "bootstrap"],
+           css: ["css-grids", "flexbox", "bootstrap", "sass"],
         },
         
         backEnd: {
             js: ["node🚀"],
-            python: ["django"]
         },
         app: ["Android App"],
         devOps: ["Docker🐳", "Nginx"],
