@@ -13,8 +13,8 @@
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web dev", "tech", "electronics", "renewable"],
+    code: ["Javascript", "Typescript", "Python", "C"],
+    askMeAbout: ["tech", "electronics", "renewable", "webdev],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
@@ -22,12 +22,12 @@ const Naren_Srini = {
         },
         
         backEnd: {
-            js: ["node🚀"],
+            js: ["node🚀, express"],
         },
-        app: ["Android App"],
+        app: ["Android"],
         devOps: ["Docker🐳", "Nginx"],
         cloud: ["AWS☁️", "Google Cloud"],
-        database: ["mongo", "MySql", "sqlite"],
+        database: ["mongo", "MySql"],
         misc: ["Github", "Trello", "neural-networks", "IoT", "Computer-Network", "SEO"],
     },
     architecture: ["AWS Serverless Architecture", "Multiple-page web applications"],
