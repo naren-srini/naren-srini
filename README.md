@@ -15,7 +15,7 @@
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "C"],
+    code: ["Javascript", "Typescript", "Python", "C", "C++"],
     askMeAbout: ["electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "webdev", "wireless-communications"],
     technologies: {
         frontEnd: {
