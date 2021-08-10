@@ -1,8 +1,10 @@
 #  About Me
 -  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini) Grad student from University of Windsor
 - 👀 I’m interested in JavaScript, React.js, HTML5, CSS3 ...
+- 🧪 I'm currently testing GitHub Co-Pilot AI...
 - 🌱 I’m currently learning TypeScript, Redux, MongoDB...
 - 💞️ I’m looking to collaborate on open-source, web development project...
+- ✨ Volunteering with City of Toronto 🌆 as a Digital Citizen Advisor...
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/) ...
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
 
@@ -14,7 +16,7 @@
 const Naren_Srini = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Python", "C"],
-    askMeAbout: ["tech", "electronics", "renewable", "webdev],
+    askMeAbout: ["electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "webdev", "wireless-communications"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux"],
@@ -24,13 +26,13 @@ const Naren_Srini = {
         backEnd: {
             js: ["node🚀, express"],
         },
-        app: ["Android"],
+        app: ["Android", "Slack-App-Dev"],
         devOps: ["Docker🐳", "Nginx"],
-        cloud: ["AWS☁️", "Google Cloud"],
-        database: ["mongo", "MySql"],
-        misc: ["Github", "Trello", "neural-networks", "IoT", "Computer-Network", "SEO"],
+        cloud: ["AWS☁️", "Google Cloud Platform"],
+        database: ["MongoDB", "MySql"],
+        misc: ["Github", "Trello", "Neural-Networks", "Machine-Learning", "IoT", "5G-Wireless", "Computer-Networks", "SEO"],
     },
-    architecture: ["AWS Serverless Architecture", "Multiple-page web applications"],
+    architecture: [ "AWS Serverless Architecture", "Multiple-page web applications"],
 };
 ```
 <p align="center">
