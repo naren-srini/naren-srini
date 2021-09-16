@@ -15,18 +15,18 @@
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "C", "C++"],
+    code: ["Javascript", "Typescript", "C", "C++", "Python",],
     askMeAbout: ["electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "webdev", "wireless-communications"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux"],
+            js: ["React", "Redux", "bolt", "stripe",],
            css: ["css-grids", "flexbox", "bootstrap", "sass"],
         },
         
         backEnd: {
             js: ["node🚀, express"],
         },
-        app: ["Android", "Slack-App-Dev"],
+        appDevelopment: ["Android", "Slack-App"],
         devOps: ["Docker🐳", "Nginx"],
         cloud: ["AWS☁️", "Google Cloud Platform"],
         database: ["MongoDB", "MySql"],
