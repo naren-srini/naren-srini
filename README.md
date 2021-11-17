@@ -1,11 +1,11 @@
 #  About Me
 -  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini) Grad student from University of Windsor
-- 👀 Interested in JavaScript, React.js, HTML5, CSS3 ...
-- 🧪 Currently testing GitHub Co-Pilot AI...
-- 🌱 Currently learning TypeScript, Redux, MongoDB...
-- 💞️ Ready to collaborate on open-source, web development project...
-- ✨ Volunteering with City of Toronto 🌆 as a Digital Citizen Advisor...
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/) ...
+- 👀 Interested in TypeScript, React.js, JavaScript
+- 🧪 Currently testing GitHub Co-Pilot AI
+- 🌱 Currently learning Computer Vision, MongoDB
+- 💞️ Ready to collaborate on open-source, web development project
+- ✨ Volunteering with City of Toronto 🌆 as a Digital Citizen Advisor
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/)
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
 
 # My Bio
@@ -15,22 +15,32 @@
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C", "C++", "Python",],
+    code: ["Javascript", "Typescript", "C", "C++", "Python"],
     askMeAbout: ["electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "webdev", "wireless-communications"],
     technologies: {
         frontEnd: {
-            js: ["React", "Redux", "bolt", "stripe",],
+            js: ["react", "next", "bolt", "stripe", "chart", "echarts", "mqtt"],
            css: ["css-grids", "flexbox", "bootstrap", "sass"],
         },
         
         backEnd: {
             js: ["node🚀, express"],
         },
-        appDevelopment: ["Android", "Slack-App"],
+        appDevelopment: ["Slack-App"],
         devOps: ["Docker🐳", "Nginx"],
-        cloud: ["AWS☁️", "Google Cloud Platform"],
+        cloud: ["AWS☁️"],
         database: ["MongoDB", "MySql"],
-        misc: ["Github", "Trello", "Neural-Networks", "Machine-Learning", "IoT", "5G-Wireless", "Computer-Networks", "SEO"],
+        misc: ["SEO", "Github", "Trello"],
+    },
+    engineering: {
+        artificialIntelligence: ["Neural-Networks", "Computer Vision", "Machine-Learning"],
+        communication: ["5G-Wireless", "LoraWAN", "Bluetooth", "Bluetooth Low Energy"],
+        electricalEngineering: {
+            renewableEnergy: ["smartgrid", "microgrid", "distributed generation", "energy storage", "electric vehicle battery"],
+        },
+        electronics: ["embedded systems", "microprocessors", "microcontrollers"],
+        mechanicalEngineering: ["power plant design", "HVAC"],
+        networking: ["IoT", "Computer-Networks", "Software Defined Networks"],
     },
     architecture: [ "AWS Serverless Architecture", "Multiple-page web applications"],
 };
