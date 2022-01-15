@@ -1,9 +1,9 @@
 #  About Me
--  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini) Grad student from University of Windsor
-- 👀 Interested in TypeScript, React.js, JavaScript
+-  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini) Software Engineer and everything else when neccessary
+- 👀 Experienced in TypeScript, React.js, JavaScript
 - 🧪 Currently testing GitHub Co-Pilot AI
-- 🌱 Currently learning Computer Vision, MongoDB
-- 💞️ Ready to collaborate on open-source, web development project
+- 🌱 Learning Computer Vision, InfluxDB
+- 💞️ Interested in digital product development, sustainable technology (i.e., Electric Vehicle, Smart Grid, Renewable Energy Tech, Distributed Generation and Smart     Cities), Internet of Things (IoT) Solutions, Artificial Intelligence, Computer Vision, Data Analytics and cloud computing.
 - ✨ Volunteering with City of Toronto 🌆 as a Digital Citizen Advisor
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/)
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
