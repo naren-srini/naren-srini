@@ -1,6 +1,6 @@
 #  About Me
--  👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini).
--  I do Software Development and everything else related to engineering when neccessary.
+- 👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini).
+- ⚙️ I do Software Development and everything else related to engineering when neccessary.
 - 👀 Experienced in TypeScript, React.js, JavaScript
 - 🧪 Currently testing GitHub Co-Pilot AI
 - 🌱 Learning Computer Vision, InfluxDB, Data Analytics
