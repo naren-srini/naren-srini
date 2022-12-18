@@ -1,6 +1,6 @@
 #  About Me
 - 👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini).
-- ⚙️ I do Data Science have strong background in Software Engineering.
+- ⚙️ I do Data Science and have strong background in Software Engineering.
 - 👀 Experienced in Python, TypeScript, and, JavaScript
 - 🧪 Currently testing ChatGPT.
 - 🌱 Learning 5G Wireless - New Radio, Advanced Data Analytics
