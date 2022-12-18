@@ -1,37 +1,34 @@
 #  About Me
 - 👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini).
-- ⚙️ I do Software Development and everything else related to engineering when neccessary.
-- 👀 Experienced in TypeScript, React.js, JavaScript
-- 🧪 Currently testing GitHub Co-Pilot AI
-- 🌱 Learning Computer Vision, InfluxDB, Data Analytics
-- 💞️ Interested in digital product development, sustainable technology (i.e., Electric Vehicle, Smart Grid, Renewable Energy Tech, Distributed Generation and Smart Cities), Internet of Things (IoT) Solutions, Artificial Intelligence, Computer Vision, Data Analytics and cloud computing.
+- ⚙️ I do Data Science with strong background in Software Engineering.
+- 👀 Experienced in Python, TypeScript, and, JavaScript
+- 🧪 Currently testing ChatGPT.
+- 🌱 Learning 5G Wireless - New Radio, Advanced Data Analytics
+- 💞️ Interested in Data Analytics, Internet of Things (IoT) Solutions, digital product development, sustainable technology (i.e., Electric Vehicle, Smart Grid, Renewable Energy Tech, Distributed Generation and Smart Cities), Artificial Intelligence, and cloud computing.
 - ✨ Volunteering with City of Toronto 🌆 as a Digital Citizen Advisor
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/snarayanan-dev/)
 - 💻 View my [Portfolio Here](https://naren-srini.github.io/) ...
-
-# My Bio
-![My Bio](https://github.com/naren-srini/naren-srini/blob/main/naren_bio.gif)
 
 # A little bit about my skills
 ```javascript
 const Naren_Srini = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "C", "C++", "Python"],
-    askMeAbout: ["electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "webdev", "wireless-communications"],
+    code: ["Python", "Typescript", "C++", "Javascript"],
+    askMeAbout: ["data-analytics", "electronics", "embedded-systems", "renewable-energy", "smart-city-tech", "wireless-communications"],
     technologies: {
-        frontEnd: {
-            js: ["react", "next", "bolt", "stripe", "chart", "echarts", "mqtt"],
-           css: ["css-grids", "flexbox", "bootstrap", "sass"],
-        },
-        
-        backEnd: {
-            js: ["node🚀, express"],
+        pythonLibraries: {
+            data_processing: ["Pandas", "NumPy", "SciPy"],
+            data_mining: ["SQLAlchemy"],
+            image_processing: ["OpenCV"],
+            machine_learning" ["Sci-KitLearn", "PyTorch", "PyCaret", "Prophet"],
+            visualization: ["Matplotlib", "Seaborn", "Plotly"],
+            misc: ["Schedule", "Faker", "Tsfresh"]
         },
         appDevelopment: ["Slack-App"],
-        devOps: ["Docker🐳", "Nginx"],
+        devOps: ["Docker🐳", "Kubernetes"],
         cloud: ["AWS☁️"],
-        database: ["MongoDB", "MySql"],
-        misc: ["SEO", "Github", "Trello"],
+        database: ["MySQL", "PostgreSQL", "InfluxDB", "MongoDB"],
+        misc: ["Git", "Github", "Jira", "Confluence"],
     },
     engineering: {
         artificialIntelligence: ["Neural-Networks", "Computer Vision", "Machine-Learning"],
