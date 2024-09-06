@@ -1,5 +1,5 @@
 #  About Me
-- 👋 Hey, I’m Narayanan Srinivasan ![naren-srini](https://github.com/naren-srini).
+- 👋 Hey, I’m Narayanan Srinivasan.
 - ⚙️ I do Data Science and have strong background in Software Engineering.
 - 👀 Experienced in Python, TypeScript, and, JavaScript
 - 🧪 Currently testing ChatGPT.
